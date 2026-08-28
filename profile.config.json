@@ -8,28 +8,28 @@
     "location": "Pacitan, Indonesia",
     "status": "Open to opportunities",
     "about": [
-      "I am a Web Developer and UI/UX Designer specializing in building responsive interfaces.",
-      "From designing user flows to integrating databases, I focus on reliable digital experiences."
+      "An Information Technology (Diploma 3) graduate from Universitas Brawijaya, specializing in end-to-end web application development (Frontend & Backend) and UI/UX design. Skilled in designing responsive interfaces, building RESTful APIs, and managing database architecture.",
+      "Experienced as a Frontend & Backend Developer Intern at PT cmlabs Indonesia Digital, with a track record of integrating user-oriented design with scalable system architecture and Git-based version control."
     ]
   },
   "research": {
     "primary": "Web Development",
     "direction": "Full-Stack Engineering",
     "themes": "Frontend / Backend / UI/UX",
-    "narrative": "I am passionate about translating complex requirements into accessible, well-designed web applications."
+    "narrative": "I am passionate about translating complex requirements into accessible, performant, and well-structured web applications. My professional direction centers on building robust backend services, seamless RESTful API communication, and user-centered web interfaces through modern software engineering practices."
   },
   "focus": [
     {
       "name": "Frontend",
-      "description": "Building responsive web interfaces."
+      "description": "Building responsive, accessible web interfaces using Laravel, Tailwind CSS, and JavaScript while optimizing UX flows."
     },
     {
       "name": "Full-Stack",
-      "description": "Developing scalable applications."
+      "description": "Developing end-to-end web applications, architecture RESTful APIs, and managing MySQL & Supabase databases."
     },
     {
-      "name": "UI/UX",
-      "description": "Designing intuitive user journeys."
+      "name": "UI/UX & QA",
+      "description": "Designing intuitive user journeys in Figma, evaluating system navigation, and ensuring software quality."
     }
   ],
   "projects": [
