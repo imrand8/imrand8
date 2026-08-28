@@ -16,17 +16,17 @@
 
 ## About Me
 
-I am a Web Developer and UI/UX Designer specializing in building responsive interfaces.
+An Information Technology (Diploma 3) graduate from Universitas Brawijaya, specializing in end-to-end web application development (Frontend & Backend) and UI/UX design. Skilled in designing responsive interfaces, building RESTful APIs, and managing database architecture.
 
-From designing user flows to integrating databases, I focus on reliable digital experiences.
+Experienced as a Frontend & Backend Developer Intern at PT cmlabs Indonesia Digital, with a track record of integrating user-oriented design with scalable system architecture and Git-based version control.
 
 ## Current Focus
 
 | Area | What I am exploring |
 | --- | --- |
-| **Frontend** | Building responsive web interfaces. |
-| **Full-Stack** | Developing scalable applications. |
-| **UI/UX** | Designing intuitive user journeys. |
+| **Frontend** | Building responsive, accessible web interfaces using Laravel, Tailwind CSS, and JavaScript while optimizing UX flows. |
+| **Full-Stack** | Developing end-to-end web applications, architecture RESTful APIs, and managing MySQL & Supabase databases. |
+| **UI/UX & QA** | Designing intuitive user journeys in Figma, evaluating system navigation, and ensuring software quality. |
 
 ## Featured Work
 
@@ -37,7 +37,7 @@ From designing user flows to integrating databases, I focus on reliable digital 
 
 ## Research Direction
 
-I am passionate about translating complex requirements into accessible, well-designed web applications.
+I am passionate about translating complex requirements into accessible, performant, and well-structured web applications. My professional direction centers on building robust backend services, seamless RESTful API communication, and user-centered web interfaces through modern software engineering practices.
 
 ## Tech Stack
 
