@@ -47,8 +47,6 @@ I am passionate about translating complex requirements into accessible, performa
 
 <!-- AUTO:ACTIVITY:START -->
 - Oct 5, 2026: created a branch in [imrand8/project_web_cashier](https://github.com/imrand8/project_web_cashier).
-- Sep 13, 2026: pushed 1 commit to [imrand8/cmlabs-internship](https://github.com/imrand8/cmlabs-internship).
-- Sep 14, 2026: pushed 1 commit to [imrand8/portfolio-imran](https://github.com/imrand8/portfolio-imran).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
